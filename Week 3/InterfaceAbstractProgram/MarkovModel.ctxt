@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MarkovModel
+comment1.params=numChars
+comment1.target=MarkovModel(int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=setSize
+comment3.target=java.lang.String\ getRandomText(int)
+numComments=4
